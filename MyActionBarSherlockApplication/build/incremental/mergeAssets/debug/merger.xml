@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="MyActionBarSherlockApplicationProjectActionBarSherlockUnspecified.aar" >
+        <source path="/home/janebabra/MyActionBarSherlockApplicationProject/MyActionBarSherlockApplication/build/exploded-bundles/MyActionBarSherlockApplicationProjectActionBarSherlockUnspecified.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/janebabra/MyActionBarSherlockApplicationProject/MyActionBarSherlockApplication/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/janebabra/MyActionBarSherlockApplicationProject/MyActionBarSherlockApplication/src/debug/assets" />
+    </dataSet>
+
+</merger>

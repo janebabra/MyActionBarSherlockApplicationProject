@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- ifRoom attribute checks the space
+           available in the action bar. If space is available,
+           the menu is placed on the Action Bar.
+    -->
+
+
+    <item android:id="@+id/Submenu"
+          android:icon="@drawable/ic_menu_moreoverflow_normal_holo_dark"
+          android:title="Submenu &gt;"
+          android:showAsAction="ifRoom">
+        <menu>
+            <item
+                    android:id="@+id/submenu_1"
+                    android:title="@string/info" />
+        </menu></item>
+
+
+</menu><!-- From: file:/home/janebabra/MyActionBarSherlockApplicationProject/MyActionBarSherlockApplication/src/main/res/menu/main.xml -->
