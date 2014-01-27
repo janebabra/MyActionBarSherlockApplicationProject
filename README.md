@@ -2,7 +2,7 @@ MyActionBarSherlockApplicationProject
 =====================================
 
 ActionBar Sherlock Example for Android Studio  
-this project is not compatible with Android Studio 0.3+ because ActionBar Sherlock import as project library is deprecated. The ActionBarSherlock should be imported as .aar from now on.
+ActionBar Sherlock as project library is deprecated in Android Studio. In some versions of Android Studio it maybe works but in a long term perspective, the ActionBarSherlock should be imported as .aar from now on.
 
 This Android Studio Project is part of the book
 
